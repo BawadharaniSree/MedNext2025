@@ -371,7 +371,7 @@ export default function MedNextConference() {
         <div className="container mx-auto px-4 flex items-center justify-between">
           <div className="flex items-center">
             <Image
-              src="/placeholder.svg?height=60&width=120"
+              src="/AICTE_Logo.png?height=60&width=120"
               alt="AICTE Logo"
               width={120}
               height={60}
@@ -388,7 +388,7 @@ export default function MedNextConference() {
           </div>
           <div className="flex items-center">
             <Image
-              src="svce_logo.jpg"
+              src="/svce_logo.jpg?height=60&width=120"
               alt="SVCE Logo"
               width={150}
               height={80}
